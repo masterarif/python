@@ -1,3 +1,3 @@
 
-
-print("hello world")
+name = "arif_khan"
+print(name)
